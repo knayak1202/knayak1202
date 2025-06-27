@@ -10,7 +10,7 @@ Welcome to my digital space where I share projects, insights, and everything I�
 - 👩🏻‍🎓 **Education**
   - Bachelor’s in **Business Administration (Accounting)**  
   - MBA in **Finance**
-  - Pursuing **MS in Business Analytics** at **California State University, East Bay**
+  - **MS in Business Analytics** at **California State University, East Bay**
 
 - 💼 **Work Experience**
   - 5.5+ years in the fields of **Accounting, Finance, and Data** as Financial Analyst
