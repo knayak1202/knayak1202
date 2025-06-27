@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi, I'm Komal Nayak!
 
-<!--
-**knayak1202/knayak1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Financial Data Analyst** | 💡 Curious Mind in Tech | 🎓 Lifelong Learner  
+Welcome to my digital space where I share projects, insights, and everything I’m learning along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 👩🏻‍🎓 **Education**
+  - Bachelor’s in **Business Administration (Accounting)**  
+  - MBA in **Finance**
+  - Pursuing **MS in Business Analytics** at **California State University, East Bay**
+
+- 💼 **Work Experience**
+  - 5.5+ years in the fields of **Accounting, Finance, and Data** as Financial Analyst
+  - I bring together finance knowledge, analytical skills, and a love for data storytelling
+
+- 🗺️ **What Drives Me**
+  - Transforming raw numbers into actionable insights
+  - Making dashboards that don’t just inform — but **communicate**
+  - Constantly upskilling and learning 🚀
+
+---
+
+## ⚙️ Tools & Skills
+
+### 📊 Data & Tech Skills
+- SQL, Advanced Excel(VBA, Macros, Power Query, Power Pivot DAX), Python ,Power BI, Tableau
+- MS Office, AWS(RedShift), ETL
+
+  
+### 💵 Finance & Business
+- Financial Modeling, Forecasting, Budgeting, P&L and Balance sheet analysis, Accounting,   
+- Cost Analysis, Revenue Tracking, Performance Reporting, Sensitivity Analysis
+
+### 🎯 Soft Skills
+- Strong Communication  
+- Cross-functional Collaboration
+- Story Telling  
+- Strategic Thinking  
+- Adaptability & Growth Mindset  
+
+---
+
+## 🚀 Featured Projects
+
+| 🛠 Project | 🔍 Description |
+|-----------|----------------|
+| **📈 Financial KPI Dashboard** | Built in Power BI to visualize trends & targets across multiple departments |
+| **💹 Excel Budget Model** | Automated monthly budget tracker & variance analysis for a mid-size business |
+| **📊 Retail DataViz Case Study** | Cleaned + analyzed retail sales data using SQL & Python for EDA |
+| **🧠 Resume Project** | Tracking skill development & resume tailoring using Notion + Python script |
+| **🌐 Portfolio Website** | Personal site to showcase all my learning — live soon on GitHub Pages |
+
+> *Want to collaborate? Let's connect and build something cool together!* 🤝
+
+---
+
+## 🌱 Currently working on
+
+- Git & GitHub workflows
+- New tools 
+
+
+---
+
+## 📬 Let’s Connect!
+
+- [LinkedIn](www.linkedin.com/in/komal-nayak)
+- [GitHub](https://github.com/knayak1202)
+- [Email](komalnayak1202@gmail.com)
+  
+
+---
+
+📝 *“Learning in public is the fastest way to grow.”*  
+Thanks for stopping by! 😊  
