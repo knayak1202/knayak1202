@@ -8,8 +8,8 @@ Welcome to my digital space where I share projects, insights, and everything I�
 ## 🧠 About Me
 
 - 👩🏻‍🎓 **Education**
-  - Bachelor’s in **Business Administration (Accounting)**  
-  - MBA in **Finance**
+  - Bachelor’s of **Business Administration in Accounting**  
+  - Master's of **Business Administration in Finance** 
   - **MS in Business Analytics** at **California State University, East Bay**
 
 - 💼 **Work Experience**
