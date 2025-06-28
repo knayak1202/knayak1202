@@ -13,7 +13,7 @@ Welcome to my digital space where I share projects, insights, and everything I�
   - **MS in Business Analytics** at **California State University, East Bay**
 
 - 💼 **Work Experience**
-  - 5.5+ years in the fields of **Accounting, Finance, and Data** as Financial Analyst
+  - 5.5+ years in the fields of **Accounting, Finance, and Business** as Financial Analyst
   - I bring together finance knowledge, analytical skills, and a love for data storytelling
 
 - 🗺️ **What Drives Me**
