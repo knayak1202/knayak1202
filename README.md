@@ -26,12 +26,13 @@ Welcome to my digital space where I share projects, insights, and everything I�
 ## ⚙️ Tools & Skills
 
 ### 📊 Data & Tech Skills
-- SQL, Advanced Excel(VBA, Macros, Power Query, Power Pivot DAX), Python ,Power BI, Tableau
+- ERP (Oracle NetSuite, QuickBooks, MYOB Exo, Levey’s, Xero, Odoo), SAP, SQL, Advanced Excel(VBA, Macros, Power Query, Power Pivot DAX), Python ,Power BI, Tableau
 - MS Office, AWS(RedShift), ETL
 
   
 ### 💵 Finance & Business
-- Financial Modeling, Forecasting, Budgeting, P&L and Balance sheet analysis, Accounting,   
+- Financial Modeling, Forecasting, Budgeting, P&L and Balance sheet analysis, Accounting,
+- OPEX/CAPEX/ OCOGS management, inventory oversight 
 - Cost Analysis, Revenue Tracking, Performance Reporting, Sensitivity Analysis
 
 ### 🎯 Soft Skills
